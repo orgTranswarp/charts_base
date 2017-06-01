@@ -1,4 +1,4 @@
-# antd-base
+# charts_base
 fundamental structure of using ant modules
 
 1. 安装 npm 依赖；
